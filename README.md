@@ -8,7 +8,7 @@ Clone the repository and run the following command:
 
 ```bash
 git clone https://github.com/KeshavMukundan/task-tracker.git
-cd backend-projects/task-tracker
+cd /task-tracker
 ```
 
 Run the following command to build and run the project:
